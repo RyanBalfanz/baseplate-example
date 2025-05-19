@@ -46,7 +46,7 @@ requests==2.32.3
     # via baseplate
 s3transfer==0.10.3
     # via boto3
-setuptools==75.1.0
+setuptools==78.1.1
     # via
     #   pyramid
     #   zope-deprecation
