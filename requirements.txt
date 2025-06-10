@@ -42,7 +42,7 @@ python-dateutil==2.9.0.post0
     # via botocore
 python-json-logger==2.0.7
     # via baseplate
-requests==2.32.3
+requests==2.32.4
     # via baseplate
 s3transfer==0.10.3
     # via boto3
